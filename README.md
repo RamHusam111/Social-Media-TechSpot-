@@ -49,8 +49,8 @@ This social media app is built using the Spring framework in an MVC architecture
 ### Steps
 1. Clone the repository.
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/RamHusam111/Social-Media-TechSpot-.git
+    
     ```
 2. Navigate to the project directory.
 3. Run
